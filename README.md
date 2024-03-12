@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/amjadsh97/ecommerce-product-page)
-- Live Site URL: [Live site](https://ecommerce-product-page-sigma-one.vercel.app/)
+- Solution URL: [Solution URL](https://github.com/amjadsh97/launch-countdown-timer)
+- Live Site URL: [Live site](https://launch-countdown-timer-sepia.vercel.app/)
 
 ## My process
 
